@@ -1,5 +1,4 @@
-# TP---K-MEANS
- TP - Segmentation Client par Algorithme K-Means
+# TP - Segmentation Client par Algorithme K-Means
 
 Description
 Ce projet réalise une segmentation de clients d'un centre commercial utilisant l'algorithme K-Means. L'objectif est d'identifier des groupes de clients ayant des comportements similaires basés sur leurs caractéristiques socio-économiques.
